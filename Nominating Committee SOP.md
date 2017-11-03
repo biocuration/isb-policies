@@ -12,13 +12,11 @@ However, equally important is the candidate's enthusiasm to serve on the executi
 
 Ideally, the maximum number of candidates that may be presented for election is less than twice the number of posts up for election. i.e. 2x – 1 (where x is the number of positions open in the executive committee). 
 
-Each candidate must submit a letter of intent including the following:  
-- The candidate's name, position, affiliation.
-- The candidate’s motivations to run for a position on the ISB Executive Committee 
-- The candidate’s experience with biocuration or her/his intersection with biocuration, details on what he/she will bring to the ISB Executive Committee, and the areas within ISB that the candidate would like to see developed. This document should be ½ page to 1 page in length. 
-- Biosketch: include 1 paragraph on the candidate’s career experience. 
-- Conflicts and other commitments: declare if there is any conflicts of interest, and declare any other significant commitments (e.g. leaderships of centers or consortia, editorial boards, scientific advisory boards, boards of directors, etc.). As well, including collaborations / consortia, other societies, etc., in which the candidate is involved. 
-
+Each candidate must submit a letter of intent (maximum two pages) including the following sections:  
+- **Biosketch**: include name, position, affiliation, and career experience.
+- **Motivation**: describe motivations to run for a position on the ISB Executive Committee, including any specific initiatives that she/he would like to lead as a member of the EC.
+- **Summary of past service** if applicable: If the candidate is a current or past EC member, a summary of past accomplishments as a member of the Executive Committee
+- **Declaration of conflicts and other significant commitments**: Include, for example, leaderships of centers or consortia, editorial boards, scientific advisory boards, boards of directors, etc.
 
 ## TIMELINE
 
