@@ -20,23 +20,23 @@ Each candidate must submit a letter of intent (maximum two pages) including the 
 
 ## TIMELINE
 
-### August 28, 2017
+### On or before August 1
 The Executive Committee will post a general call for candidates via the website and mailing list.
 This email will include: number of posts up for election, term of office, desire for a geographical and career status spread of candidates, and instruction as to how to contact the nominating committee. Also include the cut-off date for contacting the NC with intent to run (1 month prior to election).
 
-### September 20, 2017
-- All potential candidates must have been in contact with the NC and registered intent to run.
+### On or before September 1
+- All potential candidates must have submitted their Letter of Intent to the NC.
 - Candidates must be members of the ISB. The NC must check with the EC that this is the case. 
 
-### September 25, 2017
-- Final candidate list must be established and all letters of intent and COI's must have been received.
+### On or before September 15
+- Final candidate list must be established by the NC and sent to the EC for approval.
 PLEASE NOTE: The Nominating Committee should not reach out to the final list of candidates until the ISB Executive Committee has approved the list. 
 
-### September 27, 2017 
+### On or before September 20
 - Candidates must be announced on website (with letters of intent)
 - Since the website is managed by the ISB Executive Committee, the Nominating Committee will wait to have received all the letters of intent from other candidates before passing along the complete set of letters to be posted on the ISB website.  
 
-### October 02-09, 2017
+### On or before October 5
 - Election runs for 1 week (Monday to Monday)
 - Results announced within 1 week of closure of election (usually sooner) by email and on the website.
 - Election Runner (https://electionrunner.com/) will be used as the electronic voting system. 
